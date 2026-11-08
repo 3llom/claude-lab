@@ -35,10 +35,16 @@ Empecé desde cero en programación el 7 de noviembre de 2026.
 - Creé este repositorio.
 
 **Qué aprendí**
-- 
+- atajos de teclado y comandos básicos en la terminal y powershell
+- instalar linux
+- editar particiones de pendrives y discos
+- instalar programas desde la terminal
+- crear repositorios en github
+- identificar los limites de mi cuenta pro de claude
+- conectar aun desde diferentes redes wifi mis ordenadores
 
 **Dudas o problemas**
-- 
+- de momento todo bien
 
 **Próximo paso**
 - Empezar la Fase 0B: la terminal de Linux.
